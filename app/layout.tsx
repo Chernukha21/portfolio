@@ -1,14 +1,14 @@
-import React from 'react';
-import { ThemeProvider } from '@/app/provider';
-import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-import './globals.css';
+import React from "react";
+import { ThemeProvider } from "@/app/provider";
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
 
-const inter = Inter({ subsets: ['latin'] });
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'DevPortfolio',
-  description: 'My web page',
+  title: "DevPortfolio",
+  description: "My web page",
 };
 
 export default function RootLayout({
