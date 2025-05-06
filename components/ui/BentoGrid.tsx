@@ -3,10 +3,13 @@ import { cn } from '@/utils/cn';
 import React, { useState } from 'react';
 import { BackgroundGradientAnimation } from '@/components/ui/GradientBg';
 import { GlobeDemo } from '@/components/ui/GridGlobe';
-import Lottie from 'react-lottie';
 import animationData from '@/data/confetti.json';
 import MagicButton from '@/components/ui/MagicButton';
 import { IoCopyOutline } from 'react-icons/io5';
+import dynamic from 'next/dynamic';
+const Lottie = dynamic(() => import('react-lottie'), {
+  ssr: false,
+});
 
 export const BentoGrid = ({
   className,
