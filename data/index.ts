@@ -113,7 +113,7 @@ export const socialMedia = [
     link: 'https://github.com/Chernukha21',
   },
   {
-    id: 3,
+    id: 2,
     img: '/link.svg',
     link: 'https://www.linkedin.com/in/chernukha-sasha/',
   },
