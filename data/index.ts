@@ -78,7 +78,7 @@ export const projects = [
     des: 'This very site – built with Next.js 14, Tailwind, TypeScript and motion animations. A showcase of who I am as a developer.',
     img: '/p4.png',
     iconLists: ['/next.svg', '/ts.svg', '/tail.svg', '/fm.svg'],
-    link: 'https://your-portfolio-site.com',
+    link: 'https://portfolio-blue-three-79.vercel.app/',
   },
 ];
 
