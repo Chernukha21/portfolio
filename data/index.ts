@@ -62,7 +62,7 @@ export const projects = [
     des: 'Pet project by Vue and Vue Bootstrap',
     img: '/p2.png',
     iconLists: ['/vue.svg', '/bootstrap.svg'],
-    link: 'https://your-ats-link.com',
+    link: 'https://movies-amber-ten.vercel.app/',
   },
   {
     id: 3,
@@ -70,7 +70,7 @@ export const projects = [
     des: 'A dating-style app with Next.js 14, authentication, Prisma, and PostgreSQL. Work in progress with real backend integration.',
     img: '/p3.png',
     iconLists: ['/next.svg', '/ts.svg', '/tail.svg', '/prisma.svg'],
-    link: 'https://github.com/Chernukha21/my-own-tinder',
+    link: 'https://github.com/Chernukha21/my-tinder',
   },
   {
     id: 4,
