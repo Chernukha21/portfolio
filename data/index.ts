@@ -120,6 +120,6 @@ export const socialMedia = [
   {
     id: 3,
     img: '/cv.svg',
-    link: '/Chernukha_Oleksandr_frontend_developer.pdf',
+    link: '/Oleksandr_Chernukha_Frontend_Developer_CV.pdf',
   },
 ];
