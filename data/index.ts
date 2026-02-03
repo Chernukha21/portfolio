@@ -37,7 +37,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: 'Junior frontend developer with real project experience',
+    title: 'Frontend developer with real project experience',
     description: 'React, TypeScript, modern UI – and curiosity that never sleeps.',
     className: 'lg:col-span-2 md:col-span-3 md:row-span-1',
     imgClassName: '',
@@ -50,30 +50,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: 'Marvel heroes app',
-    des: 'My first pet project on react using marvel api',
-    img: '/p1.png',
-    iconLists: ['/re.svg', '/sc.svg'],
-    link: 'https://marvel-six-kohl.vercel.app/',
-  },
-  {
-    id: 2,
-    title: 'Movies IMDB application',
-    des: 'Pet project by Vue and Vue Bootstrap',
-    img: '/p2.png',
-    iconLists: ['/vue.svg', '/bootstrap.svg'],
-    link: 'https://movies-amber-ten.vercel.app/',
-  },
-  {
-    id: 3,
     title: 'Match App (WIP)',
     des: 'A dating-style app with Next.js 14, authentication, Prisma, and PostgreSQL. Work in progress with real backend integration.',
     img: '/p3.png',
     iconLists: ['/next.svg', '/ts.svg', '/tail.svg', '/prisma.svg'],
-    link: 'https://github.com/Chernukha21/my-tinder',
+    link: 'https://my-tinder-1no8gbnte-chernukha21s-projects.vercel.app/',
   },
   {
-    id: 4,
+    id: 2,
     title: 'Frontend Portfolio',
     des: 'This very site – built with Next.js 14, Tailwind, TypeScript and motion animations. A showcase of who I am as a developer.',
     img: '/p4.png',
