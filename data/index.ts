@@ -69,25 +69,18 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: 'Junior Frontend Developer – Depoistu',
+    title: 'Frontend Developer – Depoistu',
     desc: 'Built a React web app with Redux, created reusable components, and collaborated with QA to implement and refine new features in an Agile team.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Junior Frontend Developer – Data Powers',
+    title: 'Frontend Developer – Data Powers',
     desc: 'Fixed UI and JavaScript bugs, ensured responsive layouts, and tested cross-browser compatibility while integrating third-party tools and APIs.',
     className: 'md:col-span-2',
     thumbnail: '/exp2.svg',
-  },
-  {
-    id: 3,
-    title: 'Freelance Projects',
-    desc: 'Created SPAs using React and Vue, including Marvel and IMDb clones, focusing on APIs, component styling, and modern frontend workflows.',
-    className: 'md:col-span-2',
-    thumbnail: '/exp4.svg',
-  },
+  }
 ];
 
 export const socialMedia = [
